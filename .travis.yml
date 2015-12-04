@@ -13,3 +13,4 @@ script:
   - cd tests
   - behave
 
+build_image: drydock/u14pytpls:prod 
